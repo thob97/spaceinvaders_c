@@ -9,7 +9,7 @@ Project for the ProInformatik VII: Introduction to C Programming module. The obj
 - [Getting Started](#getting-started)
   - [Dependencies](#dependencies)
   - [Installation](#installation)
-  - [Compile & Run](#compile-&-run)
+  - [Compile and run](#compile-and-run)
 - [Example pictures](#example-pictures)
 - [Contribution](#contribution)
 
@@ -42,7 +42,7 @@ Installation of the dependencies on ubuntu:
 Cloning the repo:
  - `git clone https://github.com/thob97/PIA-openvpn-qbittorrent-port-forward-script.git`
 
- ### Compile & Run
+ ### Compile and run
  - `cc -o spaceinvader main.c -lSDL2 -lSDL2_image -lSDL2_mixer`
  - `./spaceinvader`
 
