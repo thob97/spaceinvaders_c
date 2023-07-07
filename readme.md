@@ -7,6 +7,9 @@ Project for the ProInformatik VII: Introduction to C Programming module. The obj
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Getting Started](#getting-started)
+  - [Dependencies](#dependencies)
+  - [Installation](#installation)
+  - [Compile & Run](#compile-&-run)
 - [Example pictures](#example-pictures)
 - [Contribution](#contribution)
 
@@ -34,14 +37,14 @@ In order for the scripts to work you will need the following packages:
  ### Installation
 
 Installation of the dependencies on ubuntu:
-`sudo apt install libsdl2-dev libsdl2-2.0-0 libdsl2-mixer-dev libsdl2-image-dev -y;`
+ - `sudo apt install libsdl2-dev libsdl2-2.0-0 libdsl2-mixer-dev libsdl2-image-dev -y;`
 
 Cloning the repo:
-`git clone https://github.com/thob97/PIA-openvpn-qbittorrent-port-forward-script.git`
+ - `git clone https://github.com/thob97/PIA-openvpn-qbittorrent-port-forward-script.git`
 
  ### Compile & Run
-`cc -o spaceinvader main.c -lSDL2 -lSDL2_image -lSDL2_mixer`
-`./spaceinvader`
+ - `cc -o spaceinvader main.c -lSDL2 -lSDL2_image -lSDL2_mixer`
+ - `./spaceinvader`
 
 ## Example pictures
 <p float="left">
