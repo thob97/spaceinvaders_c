@@ -1,4 +1,4 @@
-# Title
+# SpaceInvaders in C
 
 Project for the ProInformatik VII: Introduction to C Programming module. The objective is to develop a project utilizing the knowledge acquired over the past four weeks and present it to the tutors upon completion.
 
