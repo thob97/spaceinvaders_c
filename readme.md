@@ -1,5 +1,9 @@
 # SpaceInvaders in C
 
+<p float="left">
+    <img src="./example_pictures/preview.gif"  width="40%" height="40%">
+</p>
+
 Project for the ProInformatik VII: Introduction to C Programming module. The objective is to develop a project utilizing the knowledge acquired over the past four weeks and present it to the tutors upon completion.
 
 ## Table Of Content
