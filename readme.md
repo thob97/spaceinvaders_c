@@ -16,6 +16,7 @@ Project for the ProInformatik VII: Introduction to C Programming module. The obj
   - [Compile and run](#compile-and-run)
 - [Example pictures](#example-pictures)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -61,3 +62,6 @@ Cloning the repo:
 
 * Thore Brehmer - projekt task: elemental functions: "engine", controlls, ...
 * Jonny Lam - projekt task: music + sound effects
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
